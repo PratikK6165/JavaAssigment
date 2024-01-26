@@ -1,0 +1,11 @@
+WFS000153 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000200 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000200 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000200 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000318 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000345 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000456 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000523 (Active) worked for more than 14 hours in a single shift.
+WFS000523 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000536 (Active) has less than 10 hours between shifts but greater than 1 hour.
+WFS000577 (Active) has less than 10 hours between shifts but greater than 1 hour.
